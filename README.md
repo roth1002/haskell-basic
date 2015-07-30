@@ -1,4 +1,4 @@
-# startLearnHaskell
+# haskell-basic
 
 Learn Functional Programming by Haskell
 
